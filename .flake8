@@ -1,6 +1,6 @@
 [flake8]
 exclude =
-  migration,
+  migration
   __pychche__
   manage.py,
   settings.py
